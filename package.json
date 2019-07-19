@@ -1,0 +1,16 @@
+{
+  "name": "fac17-projects-gallery",
+  "version": "1.0.0",
+  "description": "Gallery of our cohort's projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js | tap-spec"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tap-spec": "^5.0.0",
+    "tape": "^4.11.0"
+  }
+}
