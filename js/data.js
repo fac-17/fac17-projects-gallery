@@ -32,7 +32,7 @@ const data = [{
 
     {
         week: 1,
-        theme: "API",
+        theme: "Github Workflow",
         projects: [{
                 title: "Koodi",
                 img: "https://camo.githubusercontent.com/2d493d7e712250119309e9c93b4ab091534c0093/68747470733a2f2f692e696d6775722e636f6d2f4348784c4837322e706e67",
