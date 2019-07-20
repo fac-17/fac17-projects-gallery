@@ -1,17 +1,20 @@
 console.log("dom.js")
 
+let people;
 // main render function, generates DOM and mounts at element given
 const render=(element,data)=>{
-    
-    element.innerHTML=data.map(renderWeek).join("");
+    people=data.people;
+    element.innerHTML=data.weeks.map(renderWeek).join("");
 }
 const renderWeek=(week)=>{
     
     return `
-       <section class="week-section week-${week.week}">
-        <h2 class="week-header">WEEK ${week.week} ${week.theme}</h2>
+      <section class="week-section week-${week.week}">
+       <header class="week-header">
+        <h2 class="week-h2">WEEK ${week.week} ${week.theme}</h2>
+        </header> 
         ${week.projects.map(renderProject).join("")}
-        </section>
+     </section>
     `
 }
 const renderProject=(project)=>{
@@ -27,7 +30,13 @@ const renderProject=(project)=>{
     `
 }
 const renderTeamMember=(tm)=>{
-    return `<span class="team-member"> ${tm} </span>`
+    let html=tm;
+    let peopleObj=people.find(el=>el.name===tm);
+
+    if (peopleObj){
+        html=`<a href="https://github.com/${peopleObj.handle}" target="_blank">${tm}</a>`
+    }
+    return `<span class="team-member"> ${html} </span>`
 }
 const dom={
     render, renderTeamMember, renderProject, renderWeek
