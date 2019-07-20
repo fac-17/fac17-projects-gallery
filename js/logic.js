@@ -7,7 +7,12 @@ const getData = ()=>{
     
     // randomize the order of projects in a week
     data.weeks=data.weeks.map(week=>{
-        week.projects=shuffleArray(week.projects); 
+        week.projects=shuffleArray(week.projects)
+        .map(project=>{
+            project.team=shuffleArray(project.team);
+            return project;
+        }) 
+        
         return week;
     })
 
