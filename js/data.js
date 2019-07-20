@@ -23,7 +23,7 @@ const data = {
         },
         {
           title: "Kayne or Trump",
-          img: "assets/w3-kayne-trump.png",
+          img: "assets/w3-kanye-trump.png",
           team: ["Emmanuel", "Jack", "Colette", "Georgia"],
           github: "https://github.com/fac-17/Week3-BFNJ",
           description: "Who said it: Trump or Kanye?"
@@ -66,7 +66,7 @@ const data = {
         },
         {
           title: "IJKL",
-          img: "",
+          img: "assets/w3-serious-web-development.png",
           team: ["Christine", "Colette", "Reuben", "Gregor"],
           github: "https://github.com/fac-17/IJKL-Week1-Project",
           description: 'Portfolio website for "Serious Web Development".'
@@ -101,7 +101,7 @@ const data = {
         },
         {
           title: "To-Do List App",
-          img: "",
+          img: "assets/w3-IJKL-todo.png",
           team: ["Christine", "Colette", "Reuben", "Gregor"],
           github: "https://github.com/fac-17/IJKL-week2-project",
           description:
@@ -134,6 +134,8 @@ const data = {
     { name: "Jack", handle: "jackbridger" },
     { name: "Colette", handle: "Coletterbox" },
     { name: "Georgia", handle: "georgiamshaw" },
-    { name: "Emmanuel", handle: "emaggy" }
+    { name: "Emmanuel", handle: "emaggy" },
+    { name: "Gregor", handle: "Albadylic" },
+    { name: "Christine", handle: "xIrusux" }
   ]
 };
