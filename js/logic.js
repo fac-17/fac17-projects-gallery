@@ -5,7 +5,9 @@ const getData = ()=>{
     // sort weeks so they start from latest
     data.weeks=data.weeks.sort( (w1,w2)=>w2.week-w1.week );
     
+    // randomize the order of projects in a week
     data.weeks=data.weeks.map(week=>{
+        week.projects=shuffleArray(week.projects); 
         return week;
     })
 
