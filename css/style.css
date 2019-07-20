@@ -4,7 +4,7 @@
 body {
     background-color: bisque;
     padding: 1em;
-    font-family: sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 a, a:hover, a:visited {
@@ -12,10 +12,25 @@ a, a:hover, a:visited {
     color: inherit;
 }
 
+.app-header {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
 h1 {
+    padding:2rem;
+    background-image: url("../assets/check.png");
     text-align: center;
-    font-size: 2em;
+    font-size: 3em;
     font-weight: bold;
+    color: bisque;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+}
+.cohort-name {
+   font-family: 'Major Mono Display', monospace;
 }
 
 p, h4 {
