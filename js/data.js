@@ -131,11 +131,66 @@ const data = {
       handle: "reubengt",
       img: "https://avatars0.githubusercontent.com/u/42008435"
     },
-    { name: "Jack", handle: "jackbridger" },
-    { name: "Colette", handle: "Coletterbox" },
-    { name: "Georgia", handle: "georgiamshaw" },
-    { name: "Emmanuel", handle: "emaggy" },
-    { name: "Gregor", handle: "Albadylic" },
-    { name: "Christine", handle: "xIrusux" }
+    {
+      name: "Gigi",
+      handle: "gminova",
+      img: "https://avatars2.githubusercontent.com/u/42014388"
+    },
+    {
+      name: "Jack",
+      handle: "jackbridger",
+      img: "https://avatars1.githubusercontent.com/u/7283908"
+    },
+    {
+      name: "Georgia",
+      handle: "georgiamshaw",
+      img: "https://avatars0.githubusercontent.com/u/36238916"
+    },
+    {
+      name: "Emmanuel",
+      handle: "emaggy",
+      img: "https://avatars3.githubusercontent.com/u/40627253"
+    },
+    {
+      name: "Gregor",
+      handle: "Albadylic",
+      img: "https://avatars1.githubusercontent.com/u/43413852"
+    },
+    {
+      name: "Christine",
+      handle: "xIrusux",
+      img: "https://avatars3.githubusercontent.com/u/42359615"
+    },
+    {
+      name: "Martha",
+      handle: "mkatenolan",
+      img: "https://avatars1.githubusercontent.com/u/45820111"
+    },
+    {
+      name: "Leonie",
+      handle: "LaLeonie",
+      img: "https://avatars1.githubusercontent.com/u/45558475"
+    },
+    {
+      name: "Tony",
+      handle: "tonylomax",
+      img: "https://avatars1.githubusercontent.com/u/44951051"
+    },
+    {
+      name: "Francesca",
+      handle: "frannyfra",
+      img: "https://avatars3.githubusercontent.com/u/46782373"
+    },
+    {
+      name: "Sam",
+      handle: "samjam48",
+      img: "https://avatars0.githubusercontent.com/u/16625180"
+    },
+    {
+      name: "Victor",
+      handle: "victormasson21",
+      img: "https://avatars0.githubusercontent.com/u/2736418"
+    },
+    { name: "Colette", handle: "Coletterbox" }
   ]
 };
