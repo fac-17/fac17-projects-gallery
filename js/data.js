@@ -198,32 +198,32 @@ const data = {
       theme: "PostgreSQL",
       projects: [
         {
-          title: "",
-          img: "",
-          team: ["", "", "", ""],
-          github: "",
-          description: ""
+          title: "Final FACtasy"  ,
+          img: "https://camo.githubusercontent.com/51e55d26e251f2ac5c79f8751d34272256a0c642/68747470733a2f2f692e696d6775722e636f6d2f39574e597557562e6a7067",
+          team: ["Reuben", "Jack", "Victor", "Tony"],
+          github: "https://github.com/fac-17/Week6-DFIO",
+          description: "A fantasy game where you purchase items to battle other users!"
         },
         {
-          title: "",
-          img: "",
-          team: ["", "", "", ""],
-          github: "",
-          description: ""
+          title: "BugBears",
+          img: "https://camo.githubusercontent.com/87b68c36b5d9f4e031331dda13d9f851be050889/68747470733a2f2f692e696d6775722e636f6d2f6b354c4c374b6d2e706e67",
+          team: ["Martha", "Emmanuel", "Christine", "Andy"],
+          github: "https://github.com/fac-17/Week-6-BHKM-",
+          description: "An app to post about things that bug you"
         },
         {
-          title: "",
-          img: "",
-          team: ["", "", "", ""],
-          github: "",
-          description: ""
+          title: "The Glash of The Glans",
+          img: "https://i.imgur.com/ptPwdaX.jpg",
+          team: ["Gigi", "Georgia", "Sarah", "Gregor"],
+          github: "https://github.com/fac-17/week-6-glan",
+          description: "A brave warrior enters their name and some personality traits and is returned the name of the glan they belong to. "
         },
         {
-          title: "",
-          img: "",
-          team: ["", "", "", ""],
-          github: "",
-          description: ""
+          title: "SaVaGe Creator",
+          img: "https://camo.githubusercontent.com/5c55e29e0749fdd0fb3ac6625e7a31ce14abc73e/68747470733a2f2f692e696d6775722e636f6d2f765167663370482e6a7067",
+          team: ["Colette", "Leonie", "Jan", "Francesca"],
+          github: "https://github.com/fac-17/SaVaGe",
+          description: "SaVaGe Artwork Creator by Bumpy and The Midwives"
         }
       ]
     },
