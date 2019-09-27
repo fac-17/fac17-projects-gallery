@@ -164,32 +164,32 @@ const data = {
       theme: "Authentication",
       projects: [
         {
-          title: "",
-          img: "",
-          team: ["", "", "", ""],
-          github: "",
-          description: ""
+          title: "BugBears continued",
+          img: "https://github.com/fac-17/Week7-Bugbears-continued/blob/master/public/bugbear-bear.png?raw=true",
+          team: ["Martha", "Emmanuel", "Christine", "Andy"],
+          github: "https://github.com/fac-17/Week7-Bugbears-continued",
+          description: "An app to post about things that bug you"
         },
         {
-          title: "",
-          img: "",
-          team: ["", "", "", ""],
-          github: "",
-          description: ""
+          title: "LANGS",
+          img: "https://i.imgur.com/ptPwdaX.jpg",
+          team: ["Gigi", "Georgia", "Sarah", "Gregor", "Sam"],
+          github: "https://github.com/fac-17/week-7-langs",
+          description: "Login form with 2 fields - username and password"
         },
         {
-          title: "",
-          img: "",
-          team: ["", "", "", ""],
-          github: "",
-          description: ""
+          title: "SaVaGe Creator",
+          img: "https://camo.githubusercontent.com/5c55e29e0749fdd0fb3ac6625e7a31ce14abc73e/68747470733a2f2f692e696d6775722e636f6d2f765167663370482e6a7067",
+          team: ["Colette", "Leonie", "Jan", "Francesca"],
+          github: "https://github.com/fac-17/SaVaGe",
+          description: "SaVaGe Artwork Creator by Bumpy and The Midwives"
         },
         {
-          title: "",
-          img: "",
-          team: ["", "", "", ""],
-          github: "",
-          description: ""
+          title: "Final FACtasy"  ,
+          img: "https://camo.githubusercontent.com/51e55d26e251f2ac5c79f8751d34272256a0c642/68747470733a2f2f692e696d6775722e636f6d2f39574e597557562e6a7067",
+          team: ["Reuben", "Jack", "Victor", "Tony"],
+          github: "https://github.com/fac-17/Week6-DFIO",
+          description: "A fantasy game where you purchase items to battle other users!"
         }
       ]
     },
