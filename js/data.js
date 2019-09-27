@@ -130,32 +130,32 @@ const data = {
       theme: "ExpressJS & HandlebarsJS",
       projects: [
         {
-          title: "",
-          img: "",
-          team: ["", "", "", ""],
-          github: "",
-          description: ""
+          title: "Amazing, Adorable Animal Adoption Agency",
+          img: "https://camo.githubusercontent.com/e8c6b092cd530156eaf0d6a6819a62db52d5d2ec/68747470733a2f2f692e696d6775722e636f6d2f464c6a53674f762e706e67",
+          team: ["Francesca", "Jack", "Andy", "Gregor"],
+          github: "https://github.com/fac-17/CFLM",
+          description: "Build a server-rendered full-stack app"
         },
         {
-          title: "",
-          img: "",
-          team: ["", "", "", ""],
-          github: "",
-          description: ""
+          title: "Pearls of Wisdom",
+          img: "https://camo.githubusercontent.com/86d6cd5523b35781bb8440f801d6f56b8a9bc15e/68747470733a2f2f692e696d6775722e636f6d2f785a336d4852732e706e67",
+          team: ["Reuben", "Gigi", "Leonie", "Emmanuel"],
+          github: "https://github.com/fac-17/BGIP",
+          description: "Pearls of Wisdom is a quote taking app that allows users to log quotes and add them to a category"
         },
         {
-          title: "",
-          img: "",
-          team: ["", "", "", ""],
-          github: "",
-          description: ""
+          title: "Tarot Lady",
+          img: "https://camo.githubusercontent.com/2bb706c3e2811be5650186cd5094cf00ae7cef25/68747470733a2f2f692e696d6775722e636f6d2f344c335a6f6b642e706e67",
+          team: ["Georgia", "Jan", "Christine", "Victor"],
+          github: "https://github.com/fac-17/DENK",
+          description: "User visits a page and chooses his card, clicking on it. User is then transferred to a tarot reading side and can see the card and the description."
         },
         {
-          title: "",
-          img: "",
-          team: ["", "", "", ""],
-          github: "",
-          description: ""
+          title: "Fun FACts",
+          img: "assets/w8-funfacts.png",
+          team: ["Tony", "Sam", "Colette", "Sarah", "Martha"],
+          github: "https://github.com/fac-17/JOHAS-Fun-FAC-ts",
+          description: "Guess some fun FACts about FAC 17"
         }
       ]
     },
