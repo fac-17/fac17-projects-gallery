@@ -41,52 +41,52 @@ const data = {
       theme: "ReactJS",
       projects: [
         {
-          title: "",
+          title: "React App",
           img: "",
-          team: ["", "", "", ""],
-          github: "",
+          team: ["Martha", "Georgia"],
+          github: "https://github.com/fac-17/ReactWeek-Martha-Georgia",
           description: ""
         },
         {
-          title: "",
+          title: "React App",
           img: "",
-          team: ["", "", "", ""],
-          github: "",
+          team: ["Tony", "Andy"],
+          github: "https://github.com/fac-17/tony-andy",
           description: ""
         },
         {
-          title: "",
+          title: "React App",
           img: "",
-          team: ["", "", "", ""],
-          github: "",
+          team: ["Leonie", "Jan"],
+          github: "https://github.com/fac-17/leonie-jan-app",
           description: ""
         },
         {
-          title: "",
+          title: "Sketchy Friends",
           img: "",
-          team: ["", "", "", ""],
-          github: "",
+          team: ["Victor", "Gigi"],
+          github: "https://github.com/fac-17/recatweek",
           description: ""
         },
         {
-          title: "",
+          title: "React App",
           img: "",
-          team: ["", "", "", ""],
-          github: "",
+          team: ["Gregor", "Jack"],
+          github: "https://github.com/fac-17/JackGreg",
           description: ""
         },
         {
-          title: "",
+          title: "Face Name Game",
           img: "",
-          team: ["", "", "", ""],
-          github: "",
+          team: ["Sam", "Reuben"],
+          github: "https://github.com/fac-17/face-name-game",
           description: ""
         },
         {
-          title: "",
+          title: "React App",
           img: "",
-          team: ["", "", "", ""],
-          github: "",
+          team: ["Christine", "Sarah", "Emmanuel"],
+          github: "https://github.com/fac-17/SEFC",
           description: ""
         }
       ]
