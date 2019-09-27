@@ -232,32 +232,32 @@ const data = {
       theme: "NodeJS 2/2",
       projects: [
         {
-          title: "",
-          img: "",
-          team: ["", "", "", ""],
-          github: "",
-          description: ""
+          title: "Country News App",
+          img: "https://camo.githubusercontent.com/b4053123db29bd81f925dabcfe7ee1a0f93522d1/68747470733a2f2f692e696d6775722e636f6d2f7875646745755a2e6a7067",
+          team: ["Sarah", "Leonie", "Jack", "Christine"],
+          github: "https://github.com/fac-17/PFAK-week5",
+          description: "TOP NEWS WORLDWIDE"
         },
         {
-          title: "",
-          img: "",
-          team: ["", "", "", ""],
-          github: "",
-          description: ""
+          title: "Stock prices of commodities",
+          img: "https://github.com/fac-17/week5-chin-project/blob/master/public/images/tinified/Cattle-Image.jpg?raw=true",
+          team: ["Reuben", "Georgia", "Martha", "Francesca"],
+          github: "https://github.com/fac-17/week5-chin-project",
+          description: "Create a web app that includes some form of user input and provides users with content from an API that is regularly updated"
         },
         {
-          title: "",
-          img: "",
-          team: ["", "", "", ""],
-          github: "",
-          description: ""
+          title: "Project Fear",
+          img: "https://camo.githubusercontent.com/ea58324e343e408d54b4efd7be23a3015907a2f9/68747470733a2f2f692e696d6775722e636f6d2f4e4f746b4761752e706e67",
+          team: ["Gigi", "Andy", "Victor", "Colette"],
+          github: "https://github.com/fac-17/week-5-dgjm",
+          description: "Display live information on the Pound vs other currencies"
         },
         {
-          title: "",
-          img: "",
-          team: ["", "", "", ""],
-          github: "",
-          description: ""
+          title: "BELO NEWS",
+          img: "https://camo.githubusercontent.com/96a41a1be0cd0374fc30379451844a008e95e019/68747470733a2f2f692e696d6775722e636f6d2f4b637a496c73332e6a7067",
+          team: ["Tony", "Jan", "Emmanuel", "Gregor"],
+          github: "https://github.com/fac-17/BELO",
+          description: "Simple news app."
         }
       ]
     },
