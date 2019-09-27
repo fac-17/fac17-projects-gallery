@@ -41,53 +41,53 @@ const data = {
       theme: "ReactJS",
       projects: [
         {
-          title: "React App",
-          img: "",
+          title: "Kool Kwiz",
+          img: "https://user-images.githubusercontent.com/45820111/65767759-bc8ee900-e126-11e9-849f-f03e7667d4ff.png",
           team: ["Martha", "Georgia"],
           github: "https://github.com/fac-17/ReactWeek-Martha-Georgia",
-          description: ""
+          description: "A quiz game for kool kids where you can score points in your favourite category"
         },
         {
-          title: "React App",
-          img: "",
+          title: "Guess the name",
+          img: "assets/w13-names.png",
           team: ["Tony", "Andy"],
           github: "https://github.com/fac-17/tony-andy",
-          description: ""
+          description: "How good are you at remembering your GitHub buddies' names?"
         },
         {
-          title: "React App",
-          img: "",
+          title: "Flee your followers",
+          img: "assets/w13-flee.png",
           team: ["Leonie", "Jan"],
           github: "https://github.com/fac-17/leonie-jan-app",
-          description: ""
+          description: "A game where your aim is to flee your GitHub followers"
         },
         {
           title: "Sketchy Friends",
-          img: "",
+          img: "assets/w13-sketchy.png",
           team: ["Victor", "Gigi"],
           github: "https://github.com/fac-17/recatweek",
-          description: ""
+          description: "Search for my friends by GitHub username and try to draw them on a canvas"
         },
         {
-          title: "React App",
-          img: "",
+          title: "Hula Heaven",
+          img: "assets/w13-hula.png",
           team: ["Gregor", "Jack"],
           github: "https://github.com/fac-17/JackGreg",
-          description: ""
+          description: "A game for hula hoop lovers, see how well you can score!"
         },
         {
           title: "Face Name Game",
-          img: "",
+          img: "assets/w13-space4.png",
           team: ["Sam", "Reuben"],
           github: "https://github.com/fac-17/face-name-game",
-          description: ""
+          description: "The best face and name learning game ... EVER!"
         },
         {
-          title: "React App",
-          img: "",
+          title: "Truth or Dare",
+          img: "assets/w13-truth-or-dare.png",
           team: ["Christine", "Sarah", "Emmanuel"],
           github: "https://github.com/fac-17/SEFC",
-          description: ""
+          description: "The game app takes inspiration from the infamous Truth or Dare game. "
         }
       ]
     },
