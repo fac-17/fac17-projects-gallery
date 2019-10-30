@@ -7,32 +7,40 @@ const data = {
       theme: "Tech For Better",
       projects: [
         {
-          title: "",
-          img: "",
-          team: ["", "", "", ""],
-          github: "",
-          description: ""
+          title: "UpSkillMe",
+          img:
+            "https://camo.githubusercontent.com/a1b879457e62d149e79cb7d96b314e9087b2bc95/68747470733a2f2f692e696d6775722e636f6d2f4d4470536b646b2e706e67",
+          team: ["Andy", "Jack", "Tony", "Emmanuel"],
+          github: "https://github.com/fac-17/UpSkillMe",
+          description:
+            "UpSkillMe was founded to provide young people with the opportunity to record, celebrate and gain maximum benefit from their achievements."
         },
         {
-          title: "",
-          img: "",
-          team: ["", "", "", ""],
-          github: "",
-          description: ""
+          title: "Generation Change",
+          img:
+            "https://camo.githubusercontent.com/c8e0ff2d670b22408802a8f0cdefd9b5e07dbd8d/68747470733a2f2f692e696d6775722e636f6d2f4b4739364333422e6a7067",
+          team: ["Gigi", "Christine", "Sam", "Georgia"],
+          github: "https://github.com/fac-17/Generation-Change",
+          description:
+            "A website that allows educators (teachers, scout leaders and anyone that works or volunteers with young adults) to find local social action projects for their young people."
         },
         {
-          title: "",
-          img: "",
-          team: ["", "", "", ""],
-          github: "",
-          description: ""
+          title: "My Body Back",
+          img:
+            "https://camo.githubusercontent.com/aaba1067da6b5933715e09d85a8de74dc36d6a29/68747470733a2f2f692e696d6775722e636f6d2f41474e4e6c74532e706e67",
+          team: ["Sarah", "Francesca", "Gregor", "Martha"],
+          github: "https://github.com/fac-17/My-Body-Back",
+          description:
+            "The app aims to provide support for people with experience of sexual assault. The app will encourage more people to go for a routince cervical screening (smear test)."
         },
         {
-          title: "",
-          img: "",
-          team: ["", "", "", ""],
-          github: "",
-          description: ""
+          title: "Autsera",
+          img:
+            "https://camo.githubusercontent.com/2a9d11d1232074bd3cee98ef6f3681a6deba0ef0/68747470733a2f2f692e696d6775722e636f6d2f4f5335617179472e706e67",
+          team: ["Jan", "Reuben", "Leonie", "Victor"],
+          github: "https://github.com/fac-17/Autsera",
+          description:
+            "An interactive game that makes social communication training for children with Autism effective, accessible, affordable and fun."
         }
       ]
     },
@@ -42,17 +50,20 @@ const data = {
       projects: [
         {
           title: "Kool Kwiz",
-          img: "https://user-images.githubusercontent.com/45820111/65767759-bc8ee900-e126-11e9-849f-f03e7667d4ff.png",
+          img:
+            "https://user-images.githubusercontent.com/45820111/65767759-bc8ee900-e126-11e9-849f-f03e7667d4ff.png",
           team: ["Martha", "Georgia"],
           github: "https://github.com/fac-17/ReactWeek-Martha-Georgia",
-          description: "A quiz game for kool kids where you can score points in your favourite category"
+          description:
+            "A quiz game for kool kids where you can score points in your favourite category"
         },
         {
           title: "Guess the name",
           img: "assets/w13-names.png",
           team: ["Tony", "Andy"],
           github: "https://github.com/fac-17/tony-andy",
-          description: "How good are you at remembering your GitHub buddies' names?"
+          description:
+            "How good are you at remembering your GitHub buddies' names?"
         },
         {
           title: "Flee your followers",
@@ -66,14 +77,16 @@ const data = {
           img: "assets/w13-sketchy.png",
           team: ["Victor", "Gigi"],
           github: "https://github.com/fac-17/recatweek",
-          description: "Search for my friends by GitHub username and try to draw them on a canvas"
+          description:
+            "Search for my friends by GitHub username and try to draw them on a canvas"
         },
         {
           title: "Hula Heaven",
           img: "assets/w13-hula.png",
           team: ["Gregor", "Jack"],
           github: "https://github.com/fac-17/JackGreg",
-          description: "A game for hula hoop lovers, see how well you can score!"
+          description:
+            "A game for hula hoop lovers, see how well you can score!"
         },
         {
           title: "Face Name Game",
@@ -87,7 +100,8 @@ const data = {
           img: "assets/w13-truth-or-dare.png",
           team: ["Christine", "Sarah", "Emmanuel"],
           github: "https://github.com/fac-17/SEFC",
-          description: "The game app takes inspiration from the infamous Truth or Dare game. "
+          description:
+            "The game app takes inspiration from the infamous Truth or Dare game. "
         }
       ]
     },
@@ -97,7 +111,8 @@ const data = {
       projects: [
         {
           title: "Food Miles",
-          img:"https://camo.githubusercontent.com/cddd190bc6c9499325016f61844e7105edafdb4b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7961786349484f354f675034592f67697068792e676966",
+          img:
+            "https://camo.githubusercontent.com/cddd190bc6c9499325016f61844e7105edafdb4b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7961786349484f354f675034592f67697068792e676966",
           team: ["Jack", "Jan", "Gigi", "Andy"],
           github: "https://github.com/fac-17/FFFF",
           description:
@@ -123,10 +138,12 @@ const data = {
         },
         {
           title: "PlantbaseMe",
-          img: "https://github.com/fac-17/Plantbase-Me/blob/master/public/assets/Figma.png?raw=true",
+          img:
+            "https://github.com/fac-17/Plantbase-Me/blob/master/public/assets/Figma.png?raw=true",
           team: ["Sam", "Christine", "Gregor", "Emmanuel", "Colette"],
           github: "https://github.com/fac-17/Plantbase-Me",
-          description: "Our app idea lets a user search for a non-vegan dish that they might be craving, and shows them a good alternative."
+          description:
+            "Our app idea lets a user search for a non-vegan dish that they might be craving, and shows them a good alternative."
         }
       ]
     },
