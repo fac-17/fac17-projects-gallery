@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body {
-    background-color: bisque;
+    background-image: linear-gradient(160.17deg, #91F7FE 5.07%, #179EFF 11.81%, rgb(27, 109, 167) 42.82%, #7751CE 62.83%, #613DFF 82.84%, #40E8E8 95.85%, #57BEBE 100%);
     padding: 1em;
     font-family: 'Roboto', sans-serif;
 }
