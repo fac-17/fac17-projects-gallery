@@ -268,38 +268,38 @@ const data = {
       theme: "NodeJS 2/2",
       projects: [
         {
-          title: "Country News App",
+          title: "What's the Weather?",
           img:
-            "https://camo.githubusercontent.com/b4053123db29bd81f925dabcfe7ee1a0f93522d1/68747470733a2f2f692e696d6775722e636f6d2f7875646745755a2e6a7067",
-          team: ["Sarah", "Leonie", "Jack", "Christine"],
-          github: "https://github.com/fac-17/PFAK-week5",
-          description: "TOP NEWS WORLDWIDE"
+            "",
+          team: ["Alex", "Maria", "Reda", "Renata"],
+          github: "https://github.com/fac18/week5-EIJO-weatherAPI",
+          description: "Discover the weather of any city in the world"
         },
         {
-          title: "Stock prices of commodities",
+          title: "CryptoWatch",
           img:
-            "https://github.com/fac-17/week5-chin-project/blob/master/public/images/tinified/Cattle-Image.jpg?raw=true",
-          team: ["Reuben", "Georgia", "Martha", "Francesca"],
-          github: "https://github.com/fac-17/week5-chin-project",
+            "",
+          team: ["Gillian", "Jamie", "Judith", "Pat"],
+          github: "https://github.com/fac18/week5-famk-backend-api",
           description:
-            "Create a web app that includes some form of user input and provides users with content from an API that is regularly updated"
+            "Keep tabs on your favourite cryptocurrencies"
         },
         {
-          title: "Project Fear",
+          title: "Weather App",
           img:
-            "https://camo.githubusercontent.com/ea58324e343e408d54b4efd7be23a3015907a2f9/68747470733a2f2f692e696d6775722e636f6d2f4e4f746b4761752e706e67",
-          team: ["Gigi", "Andy", "Victor", "Colette"],
-          github: "https://github.com/fac-17/week-5-dgjm",
+            "",
+          team: ["Beth", "Nikke", "Reggie", "Roshan"],
+          github: "https://github.com/fac18/week5-bcln-backend-api",
           description:
-            "Display live information on the Pound vs other currencies"
+            "A weather checker site for weather and temperature"
         },
         {
-          title: "BELO NEWS",
+          title: "Should I Go Outside?",
           img:
-            "https://camo.githubusercontent.com/96a41a1be0cd0374fc30379451844a008e95e019/68747470733a2f2f692e696d6775722e636f6d2f4b637a496c73332e6a7067",
-          team: ["Tony", "Jan", "Emmanuel", "Gregor"],
-          github: "https://github.com/fac-17/BELO",
-          description: "Simple news app."
+            "",
+          team: ["Ayub", "Dan", "Kin", "Rosa"],
+          github: "https://github.com/fac18/week-5-DARK-server-Api",
+          description: "Should you go outside today? A crucial question"
         }
       ]
     },
@@ -421,7 +421,7 @@ const data = {
       theme: "Github Workflow",
       projects: [
         {
-          title: "Koodi",
+          title: "KHOL",
           img:
             "https://camo.githubusercontent.com/4e07e43979ee471293db191d15a43b055571316f/68747470733a2f2f692e696d6775722e636f6d2f30534445706b362e6a7067",
           team: ["Martha", "Gigi", "Jack", "Jan"],
@@ -429,7 +429,7 @@ const data = {
           description: "Landing page for web development agency."
         },
         {
-          title: "ABCD",
+          title: "Dynamyk",
           img:
             "https://github.com/fac-17/ABCD-week1/blob/master/images/jacksons.png?raw=true",
           team: ["Emmanuel", "Francesca", "Sarah", "Victor"],
@@ -445,7 +445,7 @@ const data = {
           description: "Another one-page portfolio website for our team."
         },
         {
-          title: "IJKL",
+          title: "KHOL",
           img: "assets/w3-serious-web-development.png",
           team: ["Christine", "Colette", "Reuben", "Gregor"],
           github: "https://github.com/fac-17/IJKL-Week1-Project",
@@ -456,85 +456,77 @@ const data = {
   ],
   people: [
     {
-      name: "Sarah",
-      handle: "sarahyjja",
-      img: "https://avatars0.githubusercontent.com/u/44409053"
+      name: "Alex",
+      handle: "AlexandraOM",
+      img: "https://avatars0.githubusercontent.com/u/44403718?s=460&v=4"
     },
     {
-      name: "Andy",
-      handle: "andy-mc-donald",
-      img: "https://avatars3.githubusercontent.com/u/41068075"
+      name: "Ayub",
+      handle: "Ayub3"
     },
     {
-      name: "Jan",
-      handle: "crianonim",
-      img: "https://avatars2.githubusercontent.com/u/13589494"
+      name: "Beth",
+      handle: "bethanyios",
+      img: "https://avatars1.githubusercontent.com/u/36175966?s=96&v=4"
     },
     {
-      name: "Reuben",
-      handle: "reubengt",
-      img: "https://avatars0.githubusercontent.com/u/42008435"
+      name: "Dan",
+      handle: "plasticneuron",
+      img: "https://avatars3.githubusercontent.com/u/29084012?s=96&v=4"
     },
     {
-      name: "Gigi",
-      handle: "gminova",
-      img: "https://avatars2.githubusercontent.com/u/42014388"
+      name: "Gillian",
+      handle: "yeo-yeo",
+      img: "https://avatars1.githubusercontent.com/u/28454190?s=96&v=4"
     },
     {
-      name: "Jack",
-      handle: "jackbridger",
-      img: "https://avatars1.githubusercontent.com/u/7283908"
+      name: "Jamie",
+      handle: "jc2820",
+      img: "https://avatars2.githubusercontent.com/u/48565047?s=96&v=4"
     },
     {
-      name: "Georgia",
-      handle: "georgiamshaw",
-      img: "https://avatars0.githubusercontent.com/u/36238916"
+      name: "Judith",
+      handle: "jdy3"
     },
     {
-      name: "Emmanuel",
-      handle: "emaggy",
-      img: "https://avatars3.githubusercontent.com/u/40627253"
+      name: "Kin",
+      handle: "kin-au"    
     },
     {
-      name: "Gregor",
-      handle: "Albadylic",
-      img: "https://avatars1.githubusercontent.com/u/43413852"
+      name: "Maria",
+      handle: "marialani"    
     },
     {
-      name: "Christine",
-      handle: "xIrusux",
-      img: "https://avatars3.githubusercontent.com/u/42359615"
+      name: "Nikke",
+      handle: "nikkesan",
+      img: "https://avatars3.githubusercontent.com/u/52974746?s=96&v=4"
     },
     {
-      name: "Martha",
-      handle: "mkatenolan",
-      img: "https://avatars1.githubusercontent.com/u/45820111"
+      name: "Pat",
+      handle: "pat-cki"
     },
     {
-      name: "Leonie",
-      handle: "LaLeonie",
-      img: "https://avatars1.githubusercontent.com/u/45558475"
+      name: "Reda",
+      handle: "redahaq",
+      img: "https://avatars3.githubusercontent.com/u/39345463?s=96&v=4"
     },
     {
-      name: "Tony",
-      handle: "tonylomax",
-      img: "https://avatars1.githubusercontent.com/u/44951051"
+      name: "Reggie",
+      handle: "ReginaldJbeili"
     },
     {
-      name: "Francesca",
-      handle: "frannyfra",
-      img: "https://avatars3.githubusercontent.com/u/46782373"
+      name: "Renata",
+      handle: "renatajarmova",
+      img: "https://avatars2.githubusercontent.com/u/41273801?s=96&v=4"
     },
     {
-      name: "Sam",
-      handle: "samjam48",
-      img: "https://avatars0.githubusercontent.com/u/16625180"
+      name: "Rosa",
+      handle: "rosalie-baxter"
     },
     {
-      name: "Victor",
-      handle: "victormasson21",
-      img: "https://avatars0.githubusercontent.com/u/2736418"
-    },
-    { name: "Colette", handle: "Coletterbox" }
+      name: "Roshan",
+      handle: "roshlarosh",
+      img: "https://avatars1.githubusercontent.com/u/25162746?s=96&v=4"
+    }
   ]
 };
