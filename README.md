@@ -1,11 +1,9 @@
-# fac17-projects-gallery
+# fac18-projects-gallery
 
-I started playing with the idea I suggested at our week 3 SGC to create a gallery with links to all our projects.
+A site showcasing all the amazing projects created by FAC18, the 18th Cohort of Founders and Coders. 
 
-This is my initial proposition. If anyone cares, just clone and commit your changes, especially the css and design.
+In weeks 1-8 we built projects in teams of 4 in a day and a half, followed by code review and presentations to the rest of the cohort about our approach, challenges encountered and what we learnt! 
 
-I had an idea to completely separate data from functionality and look (Model View Controlller pattern).
-All data is in data.js. Atm it's just week3 and some random data otherwise. I also only added my week3 team to people section.
-Anyone can edit and update this file, just please have a look how I organised it.
+Huge thanks to Jan @crianonim for allowing us to fork the excellent ![FAC-17 projects gallery](https://github.com/fac-17/fac17-projects-gallery) :smiley:
 
-Jan @crianonim
+- Reda, @redahaq
