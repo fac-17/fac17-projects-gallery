@@ -384,32 +384,36 @@ const data = {
       projects: [
         {
           title: "Dodo Todo",
-          img: "",
+          img: "assets/wk2-dodotodo.png",
+          alt: "image of Dodo ToDo App",
           team: ["Beth", "Dan", "Pat", "Reda"],
-          github: "",
+          github: "https://github.com/fac18/week2-BDIM-fiasco",
           description: "Make your to-dos extinct with Dodo Todo"
         },
         {
-          title: "Bear Tings To Do",
-          img: ["Alex", "Gillian", "Kin", "Reggie"],
-          team: ["Emmanuel", "Francesca", "Sarah", "Victor"],
+          title: "Bear.Tings.To.Do",
+          img: "assets/wk2-sbs.png",
+          alt: "image of Bear Tings To Do App",
+          team: ["Alex", "Gillian", "Kin", "Reggie"],
           github: "https://github.com/fac18/week2-ajnp-sbs-todolist",
           description: "A to-do app for bears"
         },
         {
-          title: "To-Do",
-          img: "",
+          title: "To-Do App",
+          img: "assets/wk2-cefg-todo.png",
+          alt: "image of CEFG To-Do App",
           team: ["Judith", "Maria", "Rosa", "Roshan"],
-          github: "https://github.com/fac-17/MNOP-week2-to-do-app",
-          description: "Another to-do project"
+          github: "https://github.com/fac18/week2-CEFG-To-do",
+          description: "A serene to-do app"
         },
         {
-          title: "To-Do",
-          img: "",
+          title: "KHOL To-Do",
+          img: "assets/wk2-khol-todo.png",
+          alt: "image of KHOL To-Do App",
           team: ["Ayub", "Jamie", "Nikke", "Renata"],
-          github: "https://github.com/fac-17/IJKL-week2-project",
+          github: "https://github.com/fac18/week-2-khol-todoapp",
           description:
-            "Group IJKL's to-do list app - like the others, but with less functionality!"
+            "A f.r.i.e.n.d-ly to-do app"
         }
       ]
     },
@@ -420,6 +424,7 @@ const data = {
         {
           title: "HuSSH",
           img: "assets/wk1-hussh.png",
+          alt: "image of Hushh website",
           team: ["Judith", "Maria", "Rosa", "Roshan"],
           github: "https://github.com/fac18/hussh",
           description: "A webpage for a fictional Cybersecurity agency"
@@ -427,6 +432,7 @@ const data = {
         {
           title: "Dynamyk",
           img: "assets/wk1-dynamyk.png",
+          alt: "image of Dynamyk website",
           team: ["Beth", "Dan", "Pat", "Reda"],
           github: "https://github.com/fac18/week1-BDIM-dynamyk-site",
           description: "Want to build a beautiful product to change the world? Check out our site!"
@@ -434,6 +440,7 @@ const data = {
         {
           title: "Screaming Bear Solutions",
           img: "assets/wk1-sbs.png",
+          alt: "image of SBS website",
           team: ["Alex", "Gillian", "Kin", "Reggie"],
           github: "https://github.com/fac18/screaming-bear-solutions",
           description: "A website that displays the ethos of our growlingly great team"
@@ -441,6 +448,7 @@ const data = {
         {
           title: "KHOL",
           img: "assets/wk1-khol.png",
+          alt: "image of KHOL website",
           team: ["Ayub", "Jamie", "Nikke", "Renata"],
           github: "https://github.com/fac18/week-1-khol",
           description: "A website for a f.r.i.e.n.d-ly web development agency"

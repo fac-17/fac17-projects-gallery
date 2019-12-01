@@ -27,7 +27,7 @@ a {
 }
 
 a:hover {
-    color: #C05877;
+    color: var(--agua);
     mix-blend-mode: exclusion;
 }
 
@@ -44,7 +44,7 @@ h1 {
     text-align: center;
     font-size: 4em;
     font-weight: bold;
-    color: var(--snow);
+    color: var(--agua);
     text-transform: uppercase;
 }
 
@@ -53,10 +53,6 @@ h1 {
    -webkit-text-stroke-color: var(--snow);
    -webkit-text-stroke-width: 1px;
    color: rgb(0, 174, 255);
-}
-
-p, h4 {
-    /* padding:0.5em 0; */
 }
 
 .week-section {
@@ -69,7 +65,6 @@ p, h4 {
     text-align: center;
     line-height: 1.3em;
     font-size: 2em;
-    /* text-transform: uppercase; */
     font-weight: bold;
     background-color: var(--mystic);
 
@@ -85,14 +80,12 @@ p, h4 {
 
 
 .project-article {
-    /* border: 2px solid #ff7b00a4; */
-    /* padding: 1em; */
     display: flex;
     flex-direction: column;
     width: 100%;
     color: var(--fey);
     font-size: 1.2em;
-    box-shadow: 0.5em 0.5em var(--agua);
+    box-shadow: 0.3em 0.3em var(--agua);
 }
 
 .project-team {
