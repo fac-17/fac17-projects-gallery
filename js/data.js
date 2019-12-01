@@ -283,17 +283,14 @@ const data = {
         },
         {
           title: "Weather App",
-          img:
-            "",
+          img: "assets/wk5-bcln.png",
           team: ["Beth", "Nikke", "Reggie", "Roshan"],
           github: "https://github.com/fac18/week5-bcln-backend-api",
-          description:
-            "A weather checker site for weather and temperature"
+          description: "A weather checker site for weather and temperature in the UK"
         },
         {
           title: "Should I Go Outside?",
-          img:
-            "",
+          img: "assets/wk5-sigot.png",
           team: ["Ayub", "Dan", "Kin", "Rosa"],
           github: "https://github.com/fac18/week-5-DARK-server-Api",
           description: "Should you go outside today? A crucial question"
@@ -331,7 +328,7 @@ const data = {
           img: "assets/wk4-heritage.png",
           team: ["Alex", "Dan", "Judith", "Nikke"],
           github: "https://github.com/fac18/week4-gmno-autocomplete",
-          description: "A UK world heritage sites autocomplete widget site"
+          description: "A World Heritage Site autocomplete widget for the UK"
         }
       ]
     },
