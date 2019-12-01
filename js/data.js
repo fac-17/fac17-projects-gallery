@@ -269,34 +269,28 @@ const data = {
       projects: [
         {
           title: "What's the Weather?",
-          img:
-            "",
+          img: "assets/wk5-wtw.png",
           team: ["Alex", "Maria", "Reda", "Renata"],
           github: "https://github.com/fac18/week5-EIJO-weatherAPI",
           description: "Discover the weather of any city in the world"
         },
         {
           title: "CryptoWatch",
-          img:
-            "",
+          img: "assets/wk5-crypto.png",
           team: ["Gillian", "Jamie", "Judith", "Pat"],
           github: "https://github.com/fac18/week5-famk-backend-api",
-          description:
-            "Keep tabs on your favourite cryptocurrencies"
+          description: "Keep tabs on your favourite cryptocurrencies"
         },
         {
           title: "Weather App",
-          img:
-            "",
+          img: "assets/wk5-bcln.png",
           team: ["Beth", "Nikke", "Reggie", "Roshan"],
           github: "https://github.com/fac18/week5-bcln-backend-api",
-          description:
-            "A weather checker site for weather and temperature"
+          description: "A weather checker site for weather and temperature in the UK"
         },
         {
           title: "Should I Go Outside?",
-          img:
-            "",
+          img: "assets/wk5-sigot.png",
           team: ["Ayub", "Dan", "Kin", "Rosa"],
           github: "https://github.com/fac18/week-5-DARK-server-Api",
           description: "Should you go outside today? A crucial question"
@@ -308,38 +302,33 @@ const data = {
       theme: "NodeJS 1/2",
       projects: [
         {
-          title: "Postcode Autocomplete",
-          img: "assets/w4-postcode.png",
-          team: ["Tony", "Gigi", "Francesca", "Christine"],
-          github: "https://github.com/fac-17/cgko-week-4",
+          title: "WTF: Where's The Food?",
+          img: "assets/wk4-wtf.png",
+          team: ["Jamie", "Kin", "Reda", "Roshan"],
+          github: "https://github.com/fac18/week4-cikp-autocomplete",
           description:
-            "Our aim was to build a simple postcode autocomplete app using Node.JS, HTML and CSS."
+            "Explore the national dish of any country using our autocomplete widget"
         },
         {
-          title: "Wikipedia Country Lookup",
-          img:
-            "https://camo.githubusercontent.com/ff853cddc8de71effdd50de4e2799fce90a6f14a/68747470733a2f2f692e696d6775722e636f6d2f3263367a4b49322e706e67",
-          team: ["Jan", "Reuben", "Sarah", "Andy"],
-          github: "https://github.com/fac-17/week4_MEIA_Autocomplete",
-          description:
-            "A simple autocomplete widget that accepts a search input and shows an auto-updating list of completed countries."
+          title: "Footballers and their Birds",
+          img: "assets/wk4-footbirds.png",
+          team: ["Beth", "Ayub", "Maria", "Gillian"],
+          github: "https://github.com/fac18/week4-ABEH-autocomplete",
+          description: "Our autocomplete sends you to the wikipedia pages of footballers and birds"
         },
         {
-          title: "Search Engine for Films",
-          img:
-            "https://github.com/fac-17/Puteam-Week4/blob/master/public/img/camera.png?raw=true",
-          team: ["Gregor", "Victor", "Martha", "Leonie"],
-          github: "https://github.com/fac-17/Puteam-Week4",
-          description: "A search engine for movie synopses."
+          title: "Colour Machine",
+          img: "assets/wk4-colours.png",
+          team: ["Alex", "Dan", "Judith", "Nikke"],
+          github: "https://github.com/fac18/week4-DFJL-colours",
+          description: "CSS colour autocompleter with complementary colour search"
         },
         {
-          title: "You speak Newspeak",
-          img:
-            "https://camo.githubusercontent.com/d3273e2ebbdc6475cccd4090457c4902185652e9/68747470733a2f2f736f757263656d616b696e672e636f6d2f66696c65732f736d2f696d616765732f737061676574742e6a7067",
-          team: ["Jack", "Georgia", "Emmanuel", "Colette"],
-          github: "https://github.com/emaggy/you-speak-newspeak",
-          description:
-            "the repo name references Newspeak from 1984, but we changed the project to use Nadsat from A Clockwork Orange"
+          title: "UK Heritage autocomplete",
+          img: "assets/wk4-heritage.png",
+          team: ["Alex", "Dan", "Judith", "Nikke"],
+          github: "https://github.com/fac18/week4-gmno-autocomplete",
+          description: "A World Heritage Site autocomplete widget for the UK"
         }
       ]
     },
@@ -348,71 +337,70 @@ const data = {
       theme: "API",
       projects: [
         {
-          title: "Trainspiration",
-          img: "assets/w3-trans.png",
-          team: ["Sarah", "Andy", "Reuben", "Jan"],
-          github: "https://github.com/fac-17/week-3-MEIA",
-          description:
-            "Business and travel, trains and inspiration; get a daily dose of wisdom live from trainspiration."
+          title: "P(u)RRR",
+          img: "assets/wk3-purrr.png",
+          team: ["Pat", "Renata", "Rosa", "Roshan"],
+          github: "https://github.com/fac18/week3-gmno-prrr-api",
+          description: "Unleash your inner cat, take our quiz"
         },
         {
-          title: "Partyps",
-          img: "assets/w3-partyps.png",
-          team: ["Leonie", "Gregor", "Martha", "Victor"],
-          github: "https://github.com/fac-17/W3-Partyps",
-          description: "Have a great party!."
+          title: "BDay Time Machine",
+          img: "assets/wk3-bdaytime.png",
+          team: ["Alex", "Dan", "Judith", "Nikke"],
+          github: "https://github.com/fac18/week3-DFJL-bday-time-machine",
+          description: "Go back to the day of your birth and discover the cultural touchstones"
         },
         {
-          title: "Kayne or Trump",
-          img: "assets/w3-kanye-trump.png",
-          team: ["Emmanuel", "Jack", "Colette", "Georgia"],
-          github: "https://github.com/fac-17/Week3-BFNJ",
-          description: "Who said it: Trump or Kanye?"
+          title: "Trial by Trivia",
+          img: "assets/wk3-tbt.png",
+          team: ["Beth", "Gillian", "Ayub", "Maria"],
+          github: "https://github.com/fac18/week3-ABEH-trialbytrivia",
+          description: "Try our tremendous trivia game"
         },
         {
-          title: "Crime checker",
-          img: "assets/w3-crime.png",
-          team: ["Gigi", "Tony", "Francesca", "Christine"],
-          github: "https://github.com/fac-17/CGKO-Week3",
-          description: "How safe is your area?"
+          title: "Gifsthesia",
+          img: "assets/wk3-gifsthesia.png",
+          team: ["Jamie", "Kin", "Reda", "Roshan"],
+          github: "https://github.com/fac18/week3-cikp-gifsthesia",
+          description: "When we hear lyrics, we see GIFs. Can you decipher the songs from the UK top 50?"
         }
       ]
     },
     {
       week: 2,
-      theme: "Testing",
+      theme: "Testing: TDD",
       projects: [
         {
-          title: "To-Do",
-          img:
-            "https://camo.githubusercontent.com/8f79873f676d1e6bfb98215f920937518b8ac167/68747470733a2f2f692e696d6775722e636f6d2f305859627157722e6a7067",
-          team: ["Martha", "Gigi", "Jack", "Jan"],
-          github: "https://github.com/fac-17/week-2-EFGH-to-do-app",
-          description: "Use Test driven development(TDD) to build a To-do app"
+          title: "Dodo Todo",
+          img: "assets/wk2-dodotodo.png",
+          alt: "image of Dodo ToDo App",
+          team: ["Beth", "Dan", "Pat", "Reda"],
+          github: "https://github.com/fac18/week2-BDIM-fiasco",
+          description: "Make your to-dos extinct with Dodo Todo"
         },
         {
-          title: "To-Do",
-          img:
-            "https://camo.githubusercontent.com/10ed32595e7bbec97b417a1ea99da2c0fdba8ed9/68747470733a2f2f692e696d6775722e636f6d2f554d666d3576702e6a7067",
-          team: ["Emmanuel", "Francesca", "Sarah", "Victor"],
-          github: "https://github.com/fac-17/ABCD-week2-project",
-          description: "Another landing page for web development agency."
+          title: "Bear.Tings.To.Do",
+          img: "assets/wk2-sbs.png",
+          alt: "image of Bear Tings To Do App",
+          team: ["Alex", "Gillian", "Kin", "Reggie"],
+          github: "https://github.com/fac18/week2-ajnp-sbs-todolist",
+          description: "A to-do app for bears"
         },
         {
-          title: "To-Do",
-          img:
-            "https://camo.githubusercontent.com/6b14d068654d36e01fb0f241f96ed8dd606ba435/68747470733a2f2f692e696d6775722e636f6d2f626652367a4e582e706e67",
-          team: ["Leonie", "Andy", "Georgia", "Tony"],
-          github: "https://github.com/fac-17/MNOP-week2-to-do-app",
-          description: "Another to-do project"
+          title: "To-Do App",
+          img: "assets/wk2-cefg-todo.png",
+          alt: "image of CEFG To-Do App",
+          team: ["Judith", "Maria", "Rosa", "Roshan"],
+          github: "https://github.com/fac18/week2-CEFG-To-do",
+          description: "A serene to-do app"
         },
         {
-          title: "To-Do",
-          img: "assets/w3-IJKL-todo.png",
-          team: ["Christine", "Colette", "Reuben", "Gregor"],
-          github: "https://github.com/fac-17/IJKL-week2-project",
-          description:
-            "Group IJKL's to-do list app - like the others, but with less functionality!"
+          title: "KHOL To-Do",
+          img: "assets/wk2-khol-todo.png",
+          alt: "image of KHOL To-Do App",
+          team: ["Ayub", "Jamie", "Nikke", "Renata"],
+          github: "https://github.com/fac18/week-2-khol-todoapp",
+          description: "A f.r.i.e.n.d-ly to-do app"
         }
       ]
     },
@@ -421,35 +409,36 @@ const data = {
       theme: "Github Workflow",
       projects: [
         {
-          title: "KHOL",
-          img:
-            "https://camo.githubusercontent.com/4e07e43979ee471293db191d15a43b055571316f/68747470733a2f2f692e696d6775722e636f6d2f30534445706b362e6a7067",
-          team: ["Martha", "Gigi", "Jack", "Jan"],
-          github: "https://github.com/fac-17/week-1-EFGH-project",
-          description: "Landing page for web development agency."
+          title: "HuSSH",
+          img: "assets/wk1-hussh.png",
+          alt: "image of Hushh website",
+          team: ["Judith", "Maria", "Rosa", "Roshan"],
+          github: "https://github.com/fac18/hussh",
+          description: "A webpage for a fictional Cybersecurity agency"
         },
         {
           title: "Dynamyk",
-          img:
-            "https://github.com/fac-17/ABCD-week1/blob/master/images/jacksons.png?raw=true",
-          team: ["Emmanuel", "Francesca", "Sarah", "Victor"],
-          github: "https://github.com/fac-17/ABCD-week1",
-          description: "Another landing page for web development agency."
+          img: "assets/wk1-dynamyk.png",
+          alt: "image of Dynamyk website",
+          team: ["Beth", "Dan", "Pat", "Reda"],
+          github: "https://github.com/fac18/week1-BDIM-dynamyk-site",
+          description: "Want to build a beautiful product to change the world? Check out our site!"
         },
         {
-          title: "MNOP",
-          img:
-            "https://github.com/fac-17/MNOP/blob/master/images/BulbImage.jpg?raw=true",
-          team: ["Leonie", "Andy", "Georgia", "Tony"],
-          github: "https://github.com/fac-17/MNOP",
-          description: "Another one-page portfolio website for our team."
+          title: "Screaming Bear Solutions",
+          img: "assets/wk1-sbs.png",
+          alt: "image of SBS website",
+          team: ["Alex", "Gillian", "Kin", "Reggie"],
+          github: "https://github.com/fac18/screaming-bear-solutions",
+          description: "A website that displays the ethos of our growlingly great team"
         },
         {
           title: "KHOL",
-          img: "assets/w3-serious-web-development.png",
-          team: ["Christine", "Colette", "Reuben", "Gregor"],
-          github: "https://github.com/fac-17/IJKL-Week1-Project",
-          description: 'Portfolio website for "Serious Web Development".'
+          img: "assets/wk1-khol.png",
+          alt: "image of KHOL website",
+          team: ["Ayub", "Jamie", "Nikke", "Renata"],
+          github: "https://github.com/fac18/week-1-khol",
+          description: "A website for a f.r.i.e.n.d-ly web development agency"
         }
       ]
     }

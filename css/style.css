@@ -1,10 +1,10 @@
 :root {
     /* colour variables */ 
     --snow: white;
-    --agua: rgb(45, 213, 255);
-    --mystic: rgb(30, 31, 36);
-    --fey: rgb(255, 255, 255);
-    --whiteout: white;
+    --agua: rgb(32, 218, 171);
+    --aguadark: rgb(21, 143, 112);
+    --mystic: rgb(255, 255, 255);
+    --fey: rgb(0, 0, 0);
     /* fonts */
     --sulp: 'Sulphur Point', sans-serif;
 }
@@ -13,21 +13,21 @@
     box-sizing: border-box;
 }
 body {
-    /* background: #958993; */
-    /* background-image: linear-gradient(350.52deg, #5105F1 3.35%, rgb(1, 118, 214) 99.88%, rgba(196, 196, 196, 0) 99.89%, #0737E1 99.89%); */
-    background-image: linear-gradient(350.52deg, #EF9A6B 0%, rgb(221, 143, 141) 52.13%, #C05877 99.88%,rgba(196, 196, 196) 99.89%);;
+
+    background-image: linear-gradient(350.52deg, #EF9A6B 0%, rgb(221, 143, 141) 52.13%, #C05877 99.88%);;
     padding: 2em;
     font-family: var(--sulp);
 }
 
 a {
-    color: var(--agua);
+    color: var(--aguadark);
     text-align: center;
     /* text-decoration: none; */
 }
 
 a:hover {
-    color: inherit;
+    color: var(--agua);
+    mix-blend-mode: exclusion;
 }
 
 .app-header {
@@ -43,7 +43,7 @@ h1 {
     text-align: center;
     font-size: 4em;
     font-weight: bold;
-    color: var(--snow);
+    color: var(--agua);
     text-transform: uppercase;
 }
 
@@ -52,10 +52,6 @@ h1 {
    -webkit-text-stroke-color: var(--snow);
    -webkit-text-stroke-width: 1px;
    color: rgb(0, 174, 255);
-}
-
-p, h4 {
-    /* padding:0.5em 0; */
 }
 
 .week-section {
@@ -68,7 +64,6 @@ p, h4 {
     text-align: center;
     line-height: 1.3em;
     font-size: 2em;
-    /* text-transform: uppercase; */
     font-weight: bold;
     background-color: var(--mystic);
 
@@ -79,19 +74,17 @@ p, h4 {
 }
 
 .project-article > :first-child {
-    padding: 0.5em;
+    padding: 0.5em 0.5em 0em 0.5em;
 }
 
 
 .project-article {
-    /* border: 2px solid #ff7b00a4; */
-    /* padding: 1em; */
     display: flex;
     flex-direction: column;
     width: 100%;
     color: var(--fey);
-    font-size: 1.1em;
-    box-shadow: 0.5em 0.5em var(--agua);
+    font-size: 1.2em;
+    box-shadow: 0.3em 0.3em var(--agua);
 }
 
 .project-team {
@@ -120,13 +113,14 @@ p, h4 {
 }
 
 .project-description {
-    /* font-style: italic; */
+    font-size: 1.2em;
     flex-grow:1;
-    line-height: 1.5em;
+    line-height: 1.2em;
     text-align: center;
     padding: 1em;
     background-color: var(--mystic);
 }
+
 .project-image {
     width: 100%;
     height:100%;
@@ -134,12 +128,16 @@ p, h4 {
 }
 
 .project-image-container {
-    height: calc( calc(100vw - 2em) * 0.66);
+    /* height: calc( calc(100vw - 2em) * 0.66); */
+    overflow: hidden;
 }
-
 
 .project-image-empty {
     background-color: rgb(0, 0, 0);
+}
+
+.fac-logo {
+    display: none;
 }
 
 
@@ -147,7 +145,7 @@ p, h4 {
     
     .project-article {
         width: 300px;
-        margin: 1em 0.5em;
+        margin: 0.5em 1em;
     }
     
     .project-image-container {
@@ -157,6 +155,15 @@ p, h4 {
 
     .week-h2 {
         padding: 0.7em;
+    }
+
+    .fac-logo {
+        display: block;
+        position:absolute;
+        left:0px;
+        top:0px;
+        /* z-index:-1; */
+        width: 20%;
     }
 
 }
