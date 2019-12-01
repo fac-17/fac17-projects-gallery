@@ -380,36 +380,33 @@ const data = {
     },
     {
       week: 2,
-      theme: "Testing",
+      theme: "Testing: TDD",
       projects: [
         {
-          title: "To-Do",
-          img:
-            "https://camo.githubusercontent.com/8f79873f676d1e6bfb98215f920937518b8ac167/68747470733a2f2f692e696d6775722e636f6d2f305859627157722e6a7067",
-          team: ["Martha", "Gigi", "Jack", "Jan"],
-          github: "https://github.com/fac-17/week-2-EFGH-to-do-app",
-          description: "Use Test driven development(TDD) to build a To-do app"
+          title: "Dodo Todo",
+          img: "",
+          team: ["Beth", "Dan", "Pat", "Reda"],
+          github: "",
+          description: "Make your to-dos extinct with Dodo Todo"
         },
         {
-          title: "To-Do",
-          img:
-            "https://camo.githubusercontent.com/10ed32595e7bbec97b417a1ea99da2c0fdba8ed9/68747470733a2f2f692e696d6775722e636f6d2f554d666d3576702e6a7067",
+          title: "Bear Tings To Do",
+          img: ["Alex", "Gillian", "Kin", "Reggie"],
           team: ["Emmanuel", "Francesca", "Sarah", "Victor"],
-          github: "https://github.com/fac-17/ABCD-week2-project",
-          description: "Another landing page for web development agency."
+          github: "https://github.com/fac18/week2-ajnp-sbs-todolist",
+          description: "A to-do app for bears"
         },
         {
           title: "To-Do",
-          img:
-            "https://camo.githubusercontent.com/6b14d068654d36e01fb0f241f96ed8dd606ba435/68747470733a2f2f692e696d6775722e636f6d2f626652367a4e582e706e67",
-          team: ["Leonie", "Andy", "Georgia", "Tony"],
+          img: "",
+          team: ["Judith", "Maria", "Rosa", "Roshan"],
           github: "https://github.com/fac-17/MNOP-week2-to-do-app",
           description: "Another to-do project"
         },
         {
           title: "To-Do",
-          img: "assets/w3-IJKL-todo.png",
-          team: ["Christine", "Colette", "Reuben", "Gregor"],
+          img: "",
+          team: ["Ayub", "Jamie", "Nikke", "Renata"],
           github: "https://github.com/fac-17/IJKL-week2-project",
           description:
             "Group IJKL's to-do list app - like the others, but with less functionality!"
@@ -421,35 +418,32 @@ const data = {
       theme: "Github Workflow",
       projects: [
         {
-          title: "KHOL",
-          img:
-            "https://camo.githubusercontent.com/4e07e43979ee471293db191d15a43b055571316f/68747470733a2f2f692e696d6775722e636f6d2f30534445706b362e6a7067",
-          team: ["Martha", "Gigi", "Jack", "Jan"],
-          github: "https://github.com/fac-17/week-1-EFGH-project",
-          description: "Landing page for web development agency."
+          title: "HuSSH",
+          img: "assets/wk1-hussh.png",
+          team: ["Judith", "Maria", "Rosa", "Roshan"],
+          github: "https://github.com/fac18/hussh",
+          description: "A webpage for a fictional Cybersecurity agency"
         },
         {
           title: "Dynamyk",
-          img:
-            "https://github.com/fac-17/ABCD-week1/blob/master/images/jacksons.png?raw=true",
-          team: ["Emmanuel", "Francesca", "Sarah", "Victor"],
-          github: "https://github.com/fac-17/ABCD-week1",
-          description: "Another landing page for web development agency."
+          img: "assets/wk1-dynamyk.png",
+          team: ["Beth", "Dan", "Pat", "Reda"],
+          github: "https://github.com/fac18/week1-BDIM-dynamyk-site",
+          description: "Want to build a beautiful product to change the world? Check out our site!"
         },
         {
-          title: "MNOP",
-          img:
-            "https://github.com/fac-17/MNOP/blob/master/images/BulbImage.jpg?raw=true",
-          team: ["Leonie", "Andy", "Georgia", "Tony"],
-          github: "https://github.com/fac-17/MNOP",
-          description: "Another one-page portfolio website for our team."
+          title: "Screaming Bear Solutions",
+          img: "assets/wk1-sbs.png",
+          team: ["Alex", "Gillian", "Kin", "Reggie"],
+          github: "https://github.com/fac18/screaming-bear-solutions",
+          description: "A website that displays the ethos of our growlingly great team"
         },
         {
           title: "KHOL",
-          img: "assets/w3-serious-web-development.png",
-          team: ["Christine", "Colette", "Reuben", "Gregor"],
-          github: "https://github.com/fac-17/IJKL-Week1-Project",
-          description: 'Portfolio website for "Serious Web Development".'
+          img: "assets/wk1-khol.png",
+          team: ["Ayub", "Jamie", "Nikke", "Renata"],
+          github: "https://github.com/fac18/week-1-khol",
+          description: "A website for a f.r.i.e.n.d-ly web development agency"
         }
       ]
     }

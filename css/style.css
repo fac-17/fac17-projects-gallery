@@ -1,10 +1,10 @@
 :root {
     /* colour variables */ 
     --snow: white;
-    --agua: rgb(45, 213, 255);
-    --mystic: rgb(30, 31, 36);
-    --fey: rgb(255, 255, 255);
-    --whiteout: white;
+    --agua: rgb(32, 218, 171);
+    --aguadark: rgb(21, 143, 112);
+    --mystic: rgba(255, 255, 255, 0.884);
+    --fey: rgb(0, 0, 0);
     /* fonts */
     --sulp: 'Sulphur Point', sans-serif;
 }
@@ -21,13 +21,14 @@ body {
 }
 
 a {
-    color: var(--agua);
+    color: var(--aguadark);
     text-align: center;
     /* text-decoration: none; */
 }
 
 a:hover {
-    color: inherit;
+    color: #C05877;
+    mix-blend-mode: exclusion;
 }
 
 .app-header {
@@ -79,7 +80,7 @@ p, h4 {
 }
 
 .project-article > :first-child {
-    padding: 0.5em;
+    padding: 0.5em 0.5em 0em 0.5em;
 }
 
 
@@ -90,7 +91,7 @@ p, h4 {
     flex-direction: column;
     width: 100%;
     color: var(--fey);
-    font-size: 1.1em;
+    font-size: 1.2em;
     box-shadow: 0.5em 0.5em var(--agua);
 }
 
@@ -120,7 +121,7 @@ p, h4 {
 }
 
 .project-description {
-    /* font-style: italic; */
+    font-size: 1.2em;
     flex-grow:1;
     line-height: 1.5em;
     text-align: center;
