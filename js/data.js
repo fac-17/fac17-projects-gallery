@@ -308,38 +308,34 @@ const data = {
       theme: "NodeJS 1/2",
       projects: [
         {
-          title: "Postcode Autocomplete",
-          img: "assets/w4-postcode.png",
-          team: ["Tony", "Gigi", "Francesca", "Christine"],
-          github: "https://github.com/fac-17/cgko-week-4",
+          title: "WTF: Where's The Food?",
+          img: "",
+          team: ["Jamie", "Kin", "Reda", "Roshan"],
+          github: "",
           description:
-            "Our aim was to build a simple postcode autocomplete app using Node.JS, HTML and CSS."
+            "Explore the national dish of any country using our autocomplete widget"
         },
         {
-          title: "Wikipedia Country Lookup",
-          img:
-            "https://camo.githubusercontent.com/ff853cddc8de71effdd50de4e2799fce90a6f14a/68747470733a2f2f692e696d6775722e636f6d2f3263367a4b49322e706e67",
-          team: ["Jan", "Reuben", "Sarah", "Andy"],
-          github: "https://github.com/fac-17/week4_MEIA_Autocomplete",
+          title: "",
+          img: "",
+          team: [],
+          github: "",
           description:
-            "A simple autocomplete widget that accepts a search input and shows an auto-updating list of completed countries."
+            ""
         },
         {
-          title: "Search Engine for Films",
-          img:
-            "https://github.com/fac-17/Puteam-Week4/blob/master/public/img/camera.png?raw=true",
-          team: ["Gregor", "Victor", "Martha", "Leonie"],
-          github: "https://github.com/fac-17/Puteam-Week4",
-          description: "A search engine for movie synopses."
+          title: "",
+          img: "",
+          team: [],
+          github: "",
+          description: ""
         },
         {
-          title: "You speak Newspeak",
-          img:
-            "https://camo.githubusercontent.com/d3273e2ebbdc6475cccd4090457c4902185652e9/68747470733a2f2f736f757263656d616b696e672e636f6d2f66696c65732f736d2f696d616765732f737061676574742e6a7067",
-          team: ["Jack", "Georgia", "Emmanuel", "Colette"],
-          github: "https://github.com/emaggy/you-speak-newspeak",
-          description:
-            "the repo name references Newspeak from 1984, but we changed the project to use Nadsat from A Clockwork Orange"
+          title: "UK Heritage autocomplete",
+          img: "assets/wk4-heritage.png",
+          team: ["Alex", "Dan", "Judith", "Nikke"],
+          github: "https://github.com/fac18/week4-gmno-autocomplete",
+          description: "A UK world heritage sites autocomplete widget site"
         }
       ]
     },
@@ -348,33 +344,32 @@ const data = {
       theme: "API",
       projects: [
         {
-          title: "Trainspiration",
-          img: "assets/w3-trans.png",
-          team: ["Sarah", "Andy", "Reuben", "Jan"],
-          github: "https://github.com/fac-17/week-3-MEIA",
-          description:
-            "Business and travel, trains and inspiration; get a daily dose of wisdom live from trainspiration."
+          title: "P(u)RRR",
+          img: "assets/wk3-purrr.png",
+          team: ["Pat", "Renata", "Rosa", "Roshan"],
+          github: "https://github.com/fac18/week3-gmno-prrr-api",
+          description: "Unleash your inner cat, take our quiz"
         },
         {
-          title: "Partyps",
-          img: "assets/w3-partyps.png",
-          team: ["Leonie", "Gregor", "Martha", "Victor"],
-          github: "https://github.com/fac-17/W3-Partyps",
-          description: "Have a great party!."
+          title: "BDay Time Machine",
+          img: "assets/wk3-bdaytime.png",
+          team: ["Alex", "Dan", "Judith", "Nikke"],
+          github: "https://github.com/fac18/week3-DFJL-bday-time-machine",
+          description: "Go back to the day of your birth and discover the cultural touchstones"
         },
         {
-          title: "Kayne or Trump",
-          img: "assets/w3-kanye-trump.png",
-          team: ["Emmanuel", "Jack", "Colette", "Georgia"],
-          github: "https://github.com/fac-17/Week3-BFNJ",
-          description: "Who said it: Trump or Kanye?"
+          title: "Trial by Trivia",
+          img: "assets/wk3-tbt.png",
+          team: ["Beth", "Gillian", "Ayub", "Maria"],
+          github: "https://github.com/fac18/week3-ABEH-trialbytrivia",
+          description: "Try our tremendous trivia game"
         },
         {
-          title: "Crime checker",
-          img: "assets/w3-crime.png",
-          team: ["Gigi", "Tony", "Francesca", "Christine"],
-          github: "https://github.com/fac-17/CGKO-Week3",
-          description: "How safe is your area?"
+          title: "Gifsthesia",
+          img: "assets/wk3-gifsthesia.png",
+          team: ["Jamie", "Kin", "Reda", "Roshan"],
+          github: "https://github.com/fac18/week3-cikp-gifsthesia",
+          description: "When we hear lyrics, we see GIFs. Can you decipher the songs from the UK top 50?"
         }
       ]
     },
@@ -412,8 +407,7 @@ const data = {
           alt: "image of KHOL To-Do App",
           team: ["Ayub", "Jamie", "Nikke", "Renata"],
           github: "https://github.com/fac18/week-2-khol-todoapp",
-          description:
-            "A f.r.i.e.n.d-ly to-do app"
+          description: "A f.r.i.e.n.d-ly to-do app"
         }
       ]
     },

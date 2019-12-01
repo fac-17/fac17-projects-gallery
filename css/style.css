@@ -128,7 +128,8 @@ h1 {
 }
 
 .project-image-container {
-    height: calc( calc(100vw - 2em) * 0.66);
+    /* height: calc( calc(100vw - 2em) * 0.66); */
+    overflow: hidden;
 }
 
 
