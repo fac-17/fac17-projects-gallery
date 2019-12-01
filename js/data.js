@@ -269,20 +269,17 @@ const data = {
       projects: [
         {
           title: "What's the Weather?",
-          img:
-            "",
+          img: "assets/wk5-wtw.png",
           team: ["Alex", "Maria", "Reda", "Renata"],
           github: "https://github.com/fac18/week5-EIJO-weatherAPI",
           description: "Discover the weather of any city in the world"
         },
         {
           title: "CryptoWatch",
-          img:
-            "",
+          img: "assets/wk5-crypto.png",
           team: ["Gillian", "Jamie", "Judith", "Pat"],
           github: "https://github.com/fac18/week5-famk-backend-api",
-          description:
-            "Keep tabs on your favourite cryptocurrencies"
+          description: "Keep tabs on your favourite cryptocurrencies"
         },
         {
           title: "Weather App",
@@ -309,26 +306,25 @@ const data = {
       projects: [
         {
           title: "WTF: Where's The Food?",
-          img: "",
+          img: "assets/wk4-wtf.png",
           team: ["Jamie", "Kin", "Reda", "Roshan"],
-          github: "",
+          github: "https://github.com/fac18/week4-cikp-autocomplete",
           description:
             "Explore the national dish of any country using our autocomplete widget"
         },
         {
-          title: "",
-          img: "",
-          team: [],
-          github: "",
-          description:
-            ""
+          title: "Footballers and their Birds",
+          img: "assets/wk4-footbirds.png",
+          team: ["Beth", "Ayub", "Maria", "Gillian"],
+          github: "https://github.com/fac18/week4-ABEH-autocomplete",
+          description: "Our autocomplete sends you to the wikipedia pages of footballers and birds"
         },
         {
-          title: "",
-          img: "",
-          team: [],
-          github: "",
-          description: ""
+          title: "Colour Machine",
+          img: "assets/wk4-colours.png",
+          team: ["Alex", "Dan", "Judith", "Nikke"],
+          github: "https://github.com/fac18/week4-DFJL-colours",
+          description: "CSS colour autocompleter with complementary colour search"
         },
         {
           title: "UK Heritage autocomplete",
