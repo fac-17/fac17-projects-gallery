@@ -168,7 +168,7 @@ const data = {
     //       description:
     //         "Pearls of Wisdom is a quote taking app that allows users to log quotes and add them to a category"
     //     },
-    //     {
+    //    {
     //       title: "Tarot Lady",
     //       img:
     //         "https://camo.githubusercontent.com/2bb706c3e2811be5650186cd5094cf00ae7cef25/68747470733a2f2f692e696d6775722e636f6d2f344c335a6f6b642e706e67",
@@ -186,83 +186,84 @@ const data = {
     //     }
     //   ]
     // },
-    // {
-    //   week: 7,
-    //   theme: "Authentication",
-    //   projects: [
-    //     {
-    //       title: "BugBears continued",
-    //       img:
-    //         "https://github.com/fac-17/Week7-Bugbears-continued/blob/master/public/bugbear-bear.png?raw=true",
-    //       team: ["Martha", "Emmanuel", "Christine", "Andy"],
-    //       github: "https://github.com/fac-17/Week7-Bugbears-continued",
-    //       description: "An app to post about things that bug you"
-    //     },
-    //     {
-    //       title: "LANGS",
-    //       img: "https://i.imgur.com/ptPwdaX.jpg",
-    //       team: ["Gigi", "Georgia", "Sarah", "Gregor", "Sam"],
-    //       github: "https://github.com/fac-17/week-7-langs",
-    //       description: "Login form with 2 fields - username and password"
-    //     },
-    //     {
-    //       title: "SaVaGe Creator",
-    //       img:
-    //         "https://camo.githubusercontent.com/5c55e29e0749fdd0fb3ac6625e7a31ce14abc73e/68747470733a2f2f692e696d6775722e636f6d2f765167663370482e6a7067",
-    //       team: ["Colette", "Leonie", "Jan", "Francesca"],
-    //       github: "https://github.com/fac-17/SaVaGe",
-    //       description: "SaVaGe Artwork Creator by Bumpy and The Midwives"
-    //     },
-    //     {
-    //       title: "Final FACtasy",
-    //       img:
-    //         "https://camo.githubusercontent.com/51e55d26e251f2ac5c79f8751d34272256a0c642/68747470733a2f2f692e696d6775722e636f6d2f39574e597557562e6a7067",
-    //       team: ["Reuben", "Jack", "Victor", "Tony"],
-    //       github: "https://github.com/fac-17/Week6-DFIO",
-    //       description:
-    //         "A fantasy game where you purchase items to battle other users!"
-    //     }
-    //   ]
-    // },
-    // {
-    //   week: 6,
-    //   theme: "PostgreSQL",
-    //   projects: [
-    //     {
-    //       title: "Final FACtasy",
-    //       img:
-    //         "https://camo.githubusercontent.com/51e55d26e251f2ac5c79f8751d34272256a0c642/68747470733a2f2f692e696d6775722e636f6d2f39574e597557562e6a7067",
-    //       team: ["Reuben", "Jack", "Victor", "Tony"],
-    //       github: "https://github.com/fac-17/Week6-DFIO",
-    //       description:
-    //         "A fantasy game where you purchase items to battle other users!"
-    //     },
-    //     {
-    //       title: "BugBears",
-    //       img:
-    //         "https://camo.githubusercontent.com/87b68c36b5d9f4e031331dda13d9f851be050889/68747470733a2f2f692e696d6775722e636f6d2f6b354c4c374b6d2e706e67",
-    //       team: ["Martha", "Emmanuel", "Christine", "Andy"],
-    //       github: "https://github.com/fac-17/Week-6-BHKM-",
-    //       description: "An app to post about things that bug you"
-    //     },
-    //     {
-    //       title: "The Glash of The Glans",
-    //       img: "https://i.imgur.com/ptPwdaX.jpg",
-    //       team: ["Gigi", "Georgia", "Sarah", "Gregor"],
-    //       github: "https://github.com/fac-17/week-6-glan",
-    //       description:
-    //         "A brave warrior enters their name and some personality traits and is returned the name of the glan they belong to. "
-    //     },
-    //     {
-    //       title: "SaVaGe Creator",
-    //       img:
-    //         "https://camo.githubusercontent.com/5c55e29e0749fdd0fb3ac6625e7a31ce14abc73e/68747470733a2f2f692e696d6775722e636f6d2f765167663370482e6a7067",
-    //       team: ["Colette", "Leonie", "Jan", "Francesca"],
-    //       github: "https://github.com/fac-17/SaVaGe",
-    //       description: "SaVaGe Artwork Creator by Bumpy and The Midwives"
-    //     }
-    //   ]
-    // },
+     {
+       week: 7,
+       theme: "Authentication Week continued",
+       projects: [
+         {
+          title: "Sorting Hat",
+          img:
+            "",
+          team: ["Beth", "Jamie", "Rosa", "Alex"],
+          github: "https://github.com/fac18/week7-mepl",
+          description:
+            "Which hogwarts house are you in?"
+         },
+         {
+          title: "FAC Fruit Basket continued",
+          img:
+            "",
+          team: ["Kin", "Maria", "Nikke", "Pat"],
+          github: "https://github.com/fac18/week7-mepl",
+          description: "Online Fruit Shop"
+         },
+         {
+          title: "SQAULL continued",
+          img: "",
+          team: ["Dan", "Renata", "Roshan", "Gillian"],
+          github: "https://github.com/fac18/week7-coda-squall",
+          description:
+            "TBC"
+         },
+         {
+           title: "Game of Thrones Clan Forger continued",
+           img:
+             "",
+           team: ["Ayub", "Reda", "Reggie", "Judith"],
+           github: "https://github.com/fac18/week6-week7-FHIN-got-db-auth",
+           description:"Winter is coming. Forge your Game of Thrones clan"
+         }
+       ]
+     },
+     {
+       week: 6,
+       theme: "Data Bases: PostgreSQL",
+       projects: [
+         {
+           title: "Sorting Hat",
+           img:
+             "",
+           team: ["Beth", "Jamie", "Rosa", "Alex"],
+           github: "https://github.com/fac18/kgbj-week-6",
+           description:
+             "Which hogwarts house are you in?"
+         },
+         {
+           title: "FAC Fruit Basket",
+           img:
+             "",
+           team: ["Kin", "Maria", "Nikke", "Pat"],
+           github: "https://github.com/fac18/week6-mepl",
+           description: "Online Fruit Shop"
+         },
+         {
+           title: "SQAULL",
+           img: "",
+           team: ["Dan", "Renata", "Roshan", "Gillian"],
+           github: "https://github.com/fac18/week6-coda-squall",
+           description:
+             "TBC"
+         },
+         {
+           title: "Game of Thrones Clan Forger",
+           img:
+             "",
+           team: ["Ayub", "Reda", "Reggie", "Judith"],
+           github: "https://github.com/fac18/week6-FHIN-got-db",
+           description: "Winter is coming. Forge your Game of Thrones clan"
+         }
+       ]
+     },
     {
       week: 5,
       theme: "NodeJS 2/2",
