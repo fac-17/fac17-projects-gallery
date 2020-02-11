@@ -24,7 +24,7 @@ const renderProject=(project)=>{
         <p class="project-description">${project.description}</p>
         <h4 class="project-team">${project.team.map(renderTeamMember).join("")}</h4>
         <div class="project-image-container ${project.img?``:`project-image-empty`}">
-        ${project.img?`<img class="project-image" src="${project.img}">`:``}
+        ${project.img?`<img class="project-image" src="${project.img}" alt="${project.alt}">`:``}
         </div>
         </article>
     `
