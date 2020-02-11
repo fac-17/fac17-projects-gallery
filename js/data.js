@@ -147,123 +147,108 @@ const data = {
     //     }
     //   ]
     // },
-    // {
-    //   week: 8,
-    //   theme: "ExpressJS & HandlebarsJS",
-    //   projects: [
-    //     {
-    //       title: "Amazing, Adorable Animal Adoption Agency",
-    //       img:
-    //         "https://camo.githubusercontent.com/e8c6b092cd530156eaf0d6a6819a62db52d5d2ec/68747470733a2f2f692e696d6775722e636f6d2f464c6a53674f762e706e67",
-    //       team: ["Francesca", "Jack", "Andy", "Gregor"],
-    //       github: "https://github.com/fac-17/CFLM",
-    //       description: "Build a server-rendered full-stack app"
-    //     },
-    //     {
-    //       title: "Pearls of Wisdom",
-    //       img:
-    //         "https://camo.githubusercontent.com/86d6cd5523b35781bb8440f801d6f56b8a9bc15e/68747470733a2f2f692e696d6775722e636f6d2f785a336d4852732e706e67",
-    //       team: ["Reuben", "Gigi", "Leonie", "Emmanuel"],
-    //       github: "https://github.com/fac-17/BGIP",
-    //       description:
-    //         "Pearls of Wisdom is a quote taking app that allows users to log quotes and add them to a category"
-    //     },
-    //    {
-    //       title: "Tarot Lady",
-    //       img:
-    //         "https://camo.githubusercontent.com/2bb706c3e2811be5650186cd5094cf00ae7cef25/68747470733a2f2f692e696d6775722e636f6d2f344c335a6f6b642e706e67",
-    //       team: ["Georgia", "Jan", "Christine", "Victor"],
-    //       github: "https://github.com/fac-17/DENK",
-    //       description:
-    //         "User visits a page and chooses his card, clicking on it. User is then transferred to a tarot reading side and can see the card and the description."
-    //     },
-    //     {
-    //       title: "Fun FACts",
-    //       img: "assets/w8-funfacts.png",
-    //       team: ["Tony", "Sam", "Colette", "Sarah", "Martha"],
-    //       github: "https://github.com/fac-17/JOHAS-Fun-FAC-ts",
-    //       description: "Guess some fun FACts about FAC 17"
-    //     }
-    //   ]
-    // },
-     {
-       week: 7,
-       theme: "Authentication Week continued",
-       projects: [
-         {
+    {
+      week: 8,
+      theme: "ExpressJS & HandlebarsJS",
+      projects: [
+        {
+          title: "BiblioTech",
+          img: "assets/wk8-biblio.png",
+          team: ["Kin", "Beth", "Renata", "Judith"],
+          github: "https://github.com/fac18/week8-pbok",
+          description: "See FAC's BiblioTech!"
+        },
+        {
+          title: "Present Chooser",
+          img: "assets/wk8-presents.png",
+          team: ["Alex", "Roshan", "Ayub", "Pat"],
+          github: "https://github.com/fac18/week8-jach",
+          description: "What Christmas presents are you getting this year? "
+        },
+        {
+          title: "JAMARAD",
+          img: "assets/wk8-preppers.png",
+          team: ["Dan", "Reggie", "Jamie", "Maria"],
+          github: "https://github.com/fac18/week8-denk",
+          description: "Trust JAMARAD to help you survive till the bitter end"
+        },
+        {
+          title: "FAC18 Yearbook",
+          img: "assets/wk8-yearbook.png",
+          team: ["Reda", "Nikke", "Rosa", "Gillian"],
+          github: "https://github.com/fac18/week-8-AGIL",
+          description: "Welcome to the FAC 18 yearbook! Class of '19-'20"
+        }
+      ]
+    },
+    {
+      week: 7,
+      theme: "Authentication",
+      projects: [
+        {
           title: "Sorting Hat",
-          img:
-            "",
+          img: "assets/wk7-sorting.png",
           team: ["Beth", "Jamie", "Rosa", "Alex"],
           github: "https://github.com/fac18/week7-mepl",
-          description:
-            "Which hogwarts house are you in?"
-         },
-         {
-          title: "FAC Fruit Basket continued",
-          img:
-            "",
+          description: "Which hogwarts house are you in?"
+        },
+        {
+          title: "FAC Fruit Basket",
+          img: "assets/wk7-mepl.png",
           team: ["Kin", "Maria", "Nikke", "Pat"],
           github: "https://github.com/fac18/week7-mepl",
           description: "Online Fruit Shop"
-         },
-         {
-          title: "SQAULL continued",
-          img: "",
+        },
+        {
+          title: "SQAULL",
+          img: "assets/wk7-coda.png",
           team: ["Dan", "Renata", "Roshan", "Gillian"],
           github: "https://github.com/fac18/week7-coda-squall",
-          description:
-            "TBC"
-         },
-         {
-           title: "Game of Thrones Clan Forger continued",
-           img:
-             "",
-           team: ["Ayub", "Reda", "Reggie", "Judith"],
-           github: "https://github.com/fac18/week6-week7-FHIN-got-db-auth",
-           description:"Winter is coming. Forge your Game of Thrones clan"
-         }
-       ]
-     },
-     {
-       week: 6,
-       theme: "Data Bases: PostgreSQL",
-       projects: [
-         {
-           title: "Sorting Hat",
-           img:
-             "",
-           team: ["Beth", "Jamie", "Rosa", "Alex"],
-           github: "https://github.com/fac18/kgbj-week-6",
-           description:
-             "Which hogwarts house are you in?"
-         },
-         {
-           title: "FAC Fruit Basket",
-           img:
-             "",
-           team: ["Kin", "Maria", "Nikke", "Pat"],
-           github: "https://github.com/fac18/week6-mepl",
-           description: "Online Fruit Shop"
-         },
-         {
-           title: "SQAULL",
-           img: "",
-           team: ["Dan", "Renata", "Roshan", "Gillian"],
-           github: "https://github.com/fac18/week6-coda-squall",
-           description:
-             "TBC"
-         },
-         {
-           title: "Game of Thrones Clan Forger",
-           img:
-             "",
-           team: ["Ayub", "Reda", "Reggie", "Judith"],
-           github: "https://github.com/fac18/week6-FHIN-got-db",
-           description: "Winter is coming. Forge your Game of Thrones clan"
-         }
-       ]
-     },
+          description: "This time with auth!"
+        },
+        {
+          title: "Game of Thrones Clan Forger",
+          img: "assets/wk6-clans.png",
+          team: ["Ayub", "Reda", "Reggie", "Judith"],
+          github: "https://github.com/fac18/week6-week7-FHIN-got-db-auth",
+          description: "Winter is coming. Forge your Game of Thrones clan"
+        }
+      ]
+    },
+    {
+      week: 6,
+      theme: "Databases: PostgreSQL",
+      projects: [
+        {
+          title: "Sorting Hat",
+          img: "assets/wk6-sorting.png",
+          team: ["Beth", "Jamie", "Rosa", "Alex"],
+          github: "https://github.com/fac18/kgbj-week-6",
+          description: "Which hogwarts house are you in?"
+        },
+        {
+          title: "FAC Fruit Basket",
+          img: "assets/wk6-mepl.png",
+          team: ["Kin", "Maria", "Nikke", "Pat"],
+          github: "https://github.com/fac18/week6-mepl",
+          description: "Online Fruit Shop"
+        },
+        {
+          title: "SQAULL",
+          img: "assets/wk6-coda.png",
+          team: ["Dan", "Renata", "Roshan", "Gillian"],
+          github: "https://github.com/fac18/week6-coda-squall",
+          description: "Choose your character and your super power"
+        },
+        {
+          title: "Game of Thrones Clan Forger",
+          img: "assets/wk6-clans.png",
+          team: ["Ayub", "Reda", "Reggie", "Judith"],
+          github: "https://github.com/fac18/week6-FHIN-got-db",
+          description: "Winter is coming. Forge your Game of Thrones clan"
+        }
+      ]
+    },
     {
       week: 5,
       theme: "NodeJS 2/2",
@@ -287,7 +272,8 @@ const data = {
           img: "assets/wk5-bcln.png",
           team: ["Beth", "Nikke", "Reggie", "Roshan"],
           github: "https://github.com/fac18/week5-bcln-backend-api",
-          description: "A weather checker site for weather and temperature in the UK"
+          description:
+            "A weather checker site for weather and temperature in the UK"
         },
         {
           title: "Should I Go Outside?",
@@ -315,14 +301,16 @@ const data = {
           img: "assets/wk4-footbirds.png",
           team: ["Beth", "Ayub", "Maria", "Gillian"],
           github: "https://github.com/fac18/week4-ABEH-autocomplete",
-          description: "Our autocomplete sends you to the wikipedia pages of footballers and birds"
+          description:
+            "Our autocomplete sends you to the wikipedia pages of footballers and birds"
         },
         {
           title: "Colour Machine",
           img: "assets/wk4-colours.png",
           team: ["Alex", "Dan", "Judith", "Nikke"],
           github: "https://github.com/fac18/week4-DFJL-colours",
-          description: "CSS colour autocompleter with complementary colour search"
+          description:
+            "CSS colour autocompleter with complementary colour search"
         },
         {
           title: "UK Heritage autocomplete",
@@ -349,7 +337,8 @@ const data = {
           img: "assets/wk3-bdaytime.png",
           team: ["Alex", "Dan", "Judith", "Nikke"],
           github: "https://github.com/fac18/week3-DFJL-bday-time-machine",
-          description: "Go back to the day of your birth and discover the cultural touchstones"
+          description:
+            "Go back to the day of your birth and discover the cultural touchstones"
         },
         {
           title: "Trial by Trivia",
@@ -363,7 +352,8 @@ const data = {
           img: "assets/wk3-gifsthesia.png",
           team: ["Jamie", "Kin", "Reda", "Roshan"],
           github: "https://github.com/fac18/week3-cikp-gifsthesia",
-          description: "When we hear lyrics, we see GIFs. Can you decipher the songs from the UK top 50?"
+          description:
+            "When we hear lyrics, we see GIFs. Can you decipher the songs from the UK top 50?"
         }
       ]
     },
@@ -423,7 +413,8 @@ const data = {
           alt: "image of Dynamyk website",
           team: ["Beth", "Dan", "Pat", "Reda"],
           github: "https://github.com/fac18/week1-BDIM-dynamyk-site",
-          description: "Want to build a beautiful product to change the world? Check out our site!"
+          description:
+            "Want to build a beautiful product to change the world? Check out our site!"
         },
         {
           title: "Screaming Bear Solutions",
@@ -431,7 +422,8 @@ const data = {
           alt: "image of SBS website",
           team: ["Alex", "Gillian", "Kin", "Reggie"],
           github: "https://github.com/fac18/screaming-bear-solutions",
-          description: "A website that displays the ethos of our growlingly great team"
+          description:
+            "A website that displays the ethos of our growlingly great team"
         },
         {
           title: "KHOL",
@@ -480,11 +472,11 @@ const data = {
     },
     {
       name: "Kin",
-      handle: "kin-au"    
+      handle: "kin-au"
     },
     {
       name: "Maria",
-      handle: "marialani"    
+      handle: "marialani"
     },
     {
       name: "Nikke",
