@@ -2,48 +2,44 @@ console.log("data.js");
 
 const data = {
   weeks: [
-    // {
-    //   week: "14-16",
-    //   theme: "Tech For Better",
-    //   projects: [
-    //     {
-    //       title: "UpSkillMe",
-    //       img:
-    //         "https://camo.githubusercontent.com/a1b879457e62d149e79cb7d96b314e9087b2bc95/68747470733a2f2f692e696d6775722e636f6d2f4d4470536b646b2e706e67",
-    //       team: ["Andy", "Jack", "Tony", "Emmanuel"],
-    //       github: "https://github.com/fac-17/UpSkillMe",
-    //       description:
-    //         "UpSkillMe was founded to provide young people with the opportunity to record, celebrate and gain maximum benefit from their achievements."
-    //     },
-    //     {
-    //       title: "Generation Change",
-    //       img:
-    //         "https://camo.githubusercontent.com/c8e0ff2d670b22408802a8f0cdefd9b5e07dbd8d/68747470733a2f2f692e696d6775722e636f6d2f4b4739364333422e6a7067",
-    //       team: ["Gigi", "Christine", "Sam", "Georgia"],
-    //       github: "https://github.com/fac-17/Generation-Change",
-    //       description:
-    //         "A website that allows educators (teachers, scout leaders and anyone that works or volunteers with young adults) to find local social action projects for their young people."
-    //     },
-    //     {
-    //       title: "My Body Back",
-    //       img:
-    //         "https://camo.githubusercontent.com/aaba1067da6b5933715e09d85a8de74dc36d6a29/68747470733a2f2f692e696d6775722e636f6d2f41474e4e6c74532e706e67",
-    //       team: ["Sarah", "Francesca", "Gregor", "Martha"],
-    //       github: "https://github.com/fac-17/My-Body-Back",
-    //       description:
-    //         "The app aims to provide support for people with experience of sexual assault. The app will encourage more people to go for a routince cervical screening (smear test)."
-    //     },
-    //     {
-    //       title: "Autsera",
-    //       img:
-    //         "https://camo.githubusercontent.com/2a9d11d1232074bd3cee98ef6f3681a6deba0ef0/68747470733a2f2f692e696d6775722e636f6d2f4f5335617179472e706e67",
-    //       team: ["Jan", "Reuben", "Leonie", "Victor"],
-    //       github: "https://github.com/fac-17/Autsera",
-    //       description:
-    //         "An interactive game that makes social communication training for children with Autism effective, accessible, affordable and fun."
-    //     }
-    //   ]
-    // },
+    {
+      week: "14-16",
+      theme: "Tech For Better",
+      projects: [
+        {
+          title: "Chatti",
+          img: "assets/wk14-chatti.png",
+          team: ["Gillian", "Pat", "Ayub"],
+          github: "https://github.com/fac18/chatti",
+          description:
+            "An app that helps busy parents engage in quality time with their young children by suggesting fun and quick activities to do, which are targeted at children's early stages development goals."
+        },
+        {
+          title: "Joy",
+          img: "assets/wk14-joy.png",
+          team: ["Rosa", "Nikke", "Maria", "Roshan"],
+          github: "https://github.com/fac18/joy",
+          description:
+            "Tool which allows you to track which clients you have referred to which services, and query the database to create a dashboard of key metrics on these services and their impact on wellbeing."
+        },
+        {
+          title: "Safe Space",
+          img: "assets/wk14-safe-space.png",
+          team: ["Beth", "Reda", "Dan", "Alex"],
+          github: "https://github.com/fac18/safe-space",
+          description:
+            "A site to make it easier for people in the industry (especially freelance musicians) to report incidents of sexual abuse or harassment at work."
+        },
+        {
+          title: "Gateway 2 Heritage",
+          img: "assets/wk14-g2h.png",
+          team: ["Reggie", "Kin", "Jamie", "Renata"],
+          github: "https://github.com/fac18/t4b-g2h",
+          description:
+            "Platform that offers the heritage sector the opportunity to promote their collections to a wider audience for commercial licensing whilst providing a space for intra-sector communication."
+        }
+      ]
+    },
     {
       week: "12-13",
       theme: "Student Projects",
@@ -91,7 +87,7 @@ const data = {
           description: "Choose the theme and match the pictures"
         },
         {
-          title: "Memorise Faces",
+          title: "Memorise FACes",
           img: "assets/wk11-faces.png",
           team: ["Renata", "Alex"],
           github: "https://github.com/fac18/memorise-faces",
@@ -195,7 +191,7 @@ const data = {
           description: "Online Fruit Shop"
         },
         {
-          title: "SQAULL",
+          title: "SQUALL",
           img: "assets/wk7-coda.png",
           team: ["Dan", "Renata", "Roshan", "Gillian"],
           github: "https://github.com/fac18/week7-coda-squall",
@@ -229,7 +225,7 @@ const data = {
           description: "Online Fruit Shop"
         },
         {
-          title: "SQAULL",
+          title: "SQUALL",
           img: "assets/wk6-coda.png",
           team: ["Dan", "Renata", "Roshan", "Gillian"],
           github: "https://github.com/fac18/week6-coda-squall",
@@ -310,7 +306,7 @@ const data = {
         {
           title: "UK Heritage autocomplete",
           img: "assets/wk4-heritage.png",
-          team: ["Alex", "Dan", "Judith", "Nikke"],
+          team: ["Pat", "Rosa", "Reggie", "Renata"],
           github: "https://github.com/fac18/week4-gmno-autocomplete",
           description: "A World Heritage Site autocomplete widget for the UK"
         }
@@ -323,7 +319,7 @@ const data = {
         {
           title: "P(u)RRR",
           img: "assets/wk3-purrr.png",
-          team: ["Pat", "Renata", "Rosa", "Roshan"],
+          team: ["Pat", "Renata", "Rosa", "Reggie"],
           github: "https://github.com/fac18/week3-gmno-prrr-api",
           description: "Unleash your inner cat, take our quiz"
         },
@@ -448,7 +444,7 @@ const data = {
     },
     {
       name: "Dan",
-      handle: "plasticneuron",
+      handle: "edificex",
       img: "https://avatars3.githubusercontent.com/u/29084012?s=96&v=4"
     },
     {
@@ -493,7 +489,7 @@ const data = {
     },
     {
       name: "Renata",
-      handle: "renatajarmova",
+      handle: "renatadev",
       img: "https://avatars2.githubusercontent.com/u/41273801?s=96&v=4"
     },
     {
