@@ -1,11 +1,13 @@
-# fac17-projects-gallery
+# FAC20 Projects Gallery
 
-I started playing with the idea I suggested at our week 3 SGC to create a gallery with links to all our projects.
+In FAC17 [Jan](https://www.github.com/crianonim) had the wonderful idea (and initiative) to create a Project Gallery for everything that was created throughout the course. This is a fork of his original repo so that we can build on his work to create the same thing for FAC21! :smiley: Remember, this is your repo so if you want to improve on it, change the CSS, try different functionality, do it! :star:
 
-This is my initial proposition. If anyone cares, just clone and commit your changes, especially the css and design.
+**NOTE:** The code is currently an exact fork and needs some editing. I will try to remove the current data and replace with some placeholders/examples, but after that it's up to you, FAC21! - Oliver :hearts:
 
-I had an idea to completely separate data from functionality and look (Model View Controlller pattern).
-All data is in data.js. Atm it's just week3 and some random data otherwise. I also only added my week3 team to people section.
-Anyone can edit and update this file, just please have a look how I organised it.
+### Guide to updating (written by [Reda](https://github.com/redahq) from FAC18)
 
-Jan @crianonim
+1. git clone yada yada. go to the data.js file and scrollllll down. Way down.
+2. edit the data for your week; it should be v intuitive - uncomment and replace data with ours, use previous week as a guide
+3. save project images at 816px x 585px in the assets folder
+
+Thanks! :sparkles:
