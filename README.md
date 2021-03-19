@@ -1,4 +1,4 @@
-# FAC20 Projects Gallery
+# FAC21 Projects Gallery
 
 In FAC17 [Jan](https://www.github.com/crianonim) had the wonderful idea (and initiative) to create a Project Gallery for everything that was created throughout the course. This is a fork of his original repo so that we can build on his work to create the same thing for FAC21! :smiley: Remember, this is your repo so if you want to improve on it, change the CSS, try different functionality, do it! :star:
 
