@@ -20,7 +20,7 @@ const data = {
             "https://fac21.github.io/LOUD-agency/images/LOUD-logo.png",
           team: ["Safia", "Craig", "Amy", "Michael"],
           github: "https://github.com/fac21/LOUD-agency",
-          description: "Another landing page for web development agency."
+          description: "Landing page for web development agency."
         },
         {
           title: "Night Time Coders",
@@ -28,14 +28,14 @@ const data = {
             "https://user-images.githubusercontent.com/57327617/110826995-8ba86280-828d-11eb-93f2-867a70c80e56.png",
           team: ["Pineapple", "Chun", "Evgeny", "Rosie"],
           github: "https://github.com/fac21/agency-website-ecrc",
-          description: "Another one-page portfolio website for our team."
+          description: "Landing page for web development agency."
         },
         {
           title: "Studio Pets",
           img: "https://fac21.github.io/studio-pets/pet.png",
           team: ["Maryam", "Saki", "Nafisa", "Neville"],
           github: "https://github.com/fac21/studio-pets",
-          description: 'Portfolio website for "Serious Web Development".'
+          description: 'Landing page for web development agency.".'
         }
       ]
     }
